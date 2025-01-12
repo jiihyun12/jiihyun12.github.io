@@ -3,7 +3,7 @@ layout: post
 title: "programming"
 ---
 
-# programming Week-01
+# programming Day-01
 
 [2024-12-30]
 
@@ -99,7 +99,7 @@ W3C(World Wide Web Consortium)
           xml로 한다
 
 <hr>
-<hr>
+
 
 HTML의 요소
 	- <h1> you are better </h1>
@@ -152,10 +152,9 @@ HTML의 주석
 	- 공백 : &nbsp;
 	- ` : 빽틱 or 쿼터 or 빽쿼터 &quot; <q></q> 살짝 다름  살짝 비스듬하게 나온다.
 
- <hr/>
-
- [2024-12-31]
-
+ 
+ 
+ 
 
  
  
