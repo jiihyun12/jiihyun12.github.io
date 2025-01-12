@@ -85,7 +85,7 @@ HTML 요소(element)의 종류
 
 ** 예제) a-tag **
 ```html
-<pre>
+<div>
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -115,7 +115,7 @@ HTML 요소(element)의 종류
     <a href="#nav">맨 위로 이동</a>
 </body>
 </html>
-<pre>
+<div>
 
 <hr/>
 
