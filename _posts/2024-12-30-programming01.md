@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "programming"
+title: "programming Day-01"
 ---
 
 # programming Day-01
