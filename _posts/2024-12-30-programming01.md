@@ -98,7 +98,7 @@ title: "programming Day-01"
 
 ## HTML의 요소
 	- you are better
-	  [1]       [2]       [3]
+	  [1]  [2]  [3]
 
 	[1] 여는 태그(Opening tag) : 요소의 이름(h1)과 열고 닫는 꺽쇠 괄호로 구성된다.
 	[2] 내용(Content) : 요소의 내용이며, 단순한 텍스트를 의미한다. 
