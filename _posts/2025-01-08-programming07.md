@@ -1,9 +1,9 @@
 ---
 layout: post
-title: "programming Day-04"
+title: "programming Day-07"
 ---
 
-# programming Day-06
+# programming Day-07
 
 [2025-01-08]
 
