@@ -94,30 +94,28 @@ HTML 요소(element)의 종류
     <title>a태그</title>
 </head>
 <body>
-     
-    하이퍼 레퍼런스를 걸어주는 태그
-   
-    <a href="https://www.naver.com" target="">네이버로 이동</a> 
-
-
-    <a href="https://www.naver.com" target="_blank">네이버로 이동</a>
+    <!-- 하이퍼링크를 제공하는 a 태그 -->
+     <p>하이퍼링크를 걸어주는 태그:</p> 
+    <a href="https://www.naver.com" target="_self">네이버로 이동 (현재 창)</a> 
+    <a href="https://www.naver.com" target="_blank">네이버로 이동 (새 탭)</a>
     
-     _self : 현재 페이지(기본 값)
-     _black : 새 탭
-    _parent :부모 페이지에서 이동(iframe)
-    _top : 최상위 페이지에서 이동(imframe)
-   
+     <!-- target 속성 설명 -->
+    <p>target 속성:</p>
+    <ul>
+        <li><code>_self</code>: 현재 창에서 링크 열기 (기본값)</li>
+        <li><code>_blank</code>: 새 탭에서 링크 열기</li>
+        <li><code>_parent</code>: 부모 프레임에서 링크 열기 (iframe 사용 시)</li>
+        <li><code>_top</code>: 최상위 프레임에서 링크 열기 (iframe 사용 시)</li>
+    </ul>
 
-
-    페이지 내 북마크 
-    <div id="nav"></div>
+     <!-- 페이지 내 북마크 -->
+    <p>페이지 내 북마크:</p>
+    <div id="nav">이곳이 북마크 위치입니다.</div>
     <div style="height:1000px;"></div>
     <a href="#nav">맨 위로 이동</a>
 </body>
 </html>
-
-
-<hr/>
+```
 
 
 
