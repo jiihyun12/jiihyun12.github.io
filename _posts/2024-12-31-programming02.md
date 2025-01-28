@@ -84,6 +84,21 @@ HTML 요소(element)의 종류
 <hr/>
 
 ** 예제) a-tag **
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>a태그</title>
+</head>
+<body>
+    <!-- 하이퍼링크를 제공하는 a 태그 -->
+     <p>하이퍼링크를 걸어주는 태그:</p> 
+    <a href="https://www.naver.com" target="_self">네이버로 이동 (현재 창)</a> 
+    <a href="https://www.naver.com" target="_blank">네이버로 이동 (새 탭)</a>
+    
+</body>
+</html>
 
 ```html
 <!DOCTYPE html>
@@ -116,6 +131,8 @@ HTML 요소(element)의 종류
 </body>
 </html>
 ```
+
+
 
 
 
